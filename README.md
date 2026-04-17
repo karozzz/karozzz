@@ -1,26 +1,21 @@
 <h1 align="center">Hi, I'm Karoz Rebaz 👋</h1>
 
 <p align="center">
-  Software Engineering Student • Full-Stack Developer • Next.js Developer
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=800&size=26&duration=2200&pause=900&color=D4A017&center=true&vCenter=true&width=1000&lines=Software+Engineer;Software+Engineering+Senior+Student;Qaiwan+International+University;Full-Stack+Developer;Building+clean+and+modern+web+applications;Always+learning.+Always+building." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B93E&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Next.js+%2B+React+%2B+TypeScript;Building+modern+web+applications;Always+learning+and+building" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=karozzz&label=Profile%20Views&color=D4A017&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Software Engineering Student
-- 💻 Full-stack developer focused on modern web applications
-- ⚡ I work with **React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Node.js, Prisma, PostgreSQL, SQLite, Mantine, shadcn/ui, Vercel, NPM, Git, GitHub, VS Code, and Figma**
-- 🛠 I enjoy building clean, modern, and real-world projects
-- 📚 Always learning and improving my development skills
+- 🎓 Software Engineering senior student at **Qaiwan International University**
+- 💻 Software engineer and full-stack developer
+- 🛠 I enjoy building clean, modern, and real-world web applications
+- 📚 Always learning, improving, and growing as a developer
 
 ---
 
@@ -55,20 +50,10 @@
 
 ---
 
-## 🌟 What I Build
-
-- Modern full-stack web applications
-- Admin dashboards
-- Business websites
-- Database-driven systems
-- Responsive and clean UI/UX projects
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karozzz&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12" />
 </p>
 
 ---
@@ -76,28 +61,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karozzz&show_icons=true&theme=algolia&hide_border=true&rank_icon=github&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karozzz&layout=compact&theme=algolia&hide_border=true&langs_count=8" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=karozzz&theme=algolia&hide_border=true&border_radius=8" />
 </p>
-
----
-
-## 🎯 Current Focus
-
-- Building better real-world projects
-- Improving backend architecture and logic
-- Strengthening full-stack development skills
-- Learning more every day
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://instagram.com/karoz00" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
@@ -107,29 +83,13 @@
   <a href="https://www.linkedin.com/in/karozrebaz?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:k4r0z004@gmail.com">
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 </p>
 
 ---
 
-## ☕ Support Me
-
-<p align="left">
-  <a href="https://www.patreon.com/karoz" target="_blank">
-    <img src="https://img.shields.io/badge/Patreon-0d1117?style=for-the-badge&logo=patreon&logoColor=FF424D" />
-  </a>
-  <a href="https://ko-fi.com/YOUR_KOFI_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-0d1117?style=for-the-badge&logo=ko-fi&logoColor=FF5E5B" />
-  </a>
-  <a href="https://buymeacoffee.com/YOUR_BUYMEACOFFEE_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-0d1117?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00" />
-  </a>
-</p>
-
----
-
 <p align="center">
-  <i>Code. Learn. Build. Repeat.</i>
+  <i>Always learning. Always building.</i>
 </p>
