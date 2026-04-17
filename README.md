@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Karoz Rebaz 👋</h1>
+<h1 align="center"> Karoz Rebaz 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Software%20Engineer&fontAlign=50&fontAlignY=40&color=0:ff6a00,50:ff2d00,100:ffb300&fontColor=ffffff&fontSize=42&animation=fadeIn" alt="Software Engineer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Software%20Engineer&fontAlign=50&fontAlignY=40&color=0:1a0933,50:3b1e78,100:0f3460&fontColor=ffffff&fontSize=42&animation=fadeIn" alt="Software Engineer Banner" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karozzz&label=Profile%20Views&color=D4A017&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=karozzz&label=Profile%20Views&color=6A5ACD&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
