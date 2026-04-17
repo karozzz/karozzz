@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Karoz Rebaz 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=800&size=26&duration=2200&pause=900&color=D4A017&center=true&vCenter=true&width=1000&lines=Software+Engineer;Software+Engineering+Senior+Student;Qaiwan+International+University;Full-Stack+Developer;Building+clean+and+modern+web+applications;Always+learning.+Always+building." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Software%20Engineer&fontAlign=50&fontAlignY=40&color=0:ff6a00,50:ff2d00,100:ffb300&fontColor=ffffff&fontSize=42&animation=fadeIn" alt="Software Engineer Banner" />
 </p>
 
 <p align="center">
@@ -47,14 +47,6 @@
 
 ### Other
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karozzz&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12" />
-</p>
 
 ---
 
