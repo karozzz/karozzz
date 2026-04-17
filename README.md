@@ -1,4 +1,4 @@
-<h1 align="center"> Karoz Rebaz 👋</h1>
+<h1 align="center"> Karoz Rebaz </h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Software%20Engineer&fontAlign=50&fontAlignY=40&color=0:1a0933,50:3b1e78,100:0f3460&fontColor=ffffff&fontSize=42&animation=fadeIn" alt="Software Engineer Banner" />
