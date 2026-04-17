@@ -4,10 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Software%20Engineer&fontAlign=50&fontAlignY=40&color=0:1a0933,50:3b1e78,100:0f3460&fontColor=ffffff&fontSize=42&animation=fadeIn" alt="Software Engineer Banner" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karozzz&label=Profile%20Views&color=6A5ACD&style=for-the-badge" alt="profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -81,6 +77,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karozzz&label=Profile%20Views&color=6A5ACD&style=for-the-badge" alt="profile views" />
+</p>
 
 <p align="center">
   <i>Always learning. Always building.</i>
